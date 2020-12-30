@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Striped", "Striped\Striped.csproj", "{7B12375A-603E-43A5-9776-EBDCE308EECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B12375A-603E-43A5-9776-EBDCE308EECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B12375A-603E-43A5-9776-EBDCE308EECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B12375A-603E-43A5-9776-EBDCE308EECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B12375A-603E-43A5-9776-EBDCE308EECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85896F92-83B9-415F-9919-575A7F4FCC3D}
+	EndGlobalSection
+EndGlobal
